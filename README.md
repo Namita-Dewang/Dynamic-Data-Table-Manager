@@ -2,7 +2,7 @@
 
 A comprehensive data table manager built with Next.js 14, Redux Toolkit, and Material UI. Features dynamic columns, sorting, filtering, inline editing, and CSV import/export functionality.
 
-## 🚀 Features
+## 🚀 Features -
 
 ### Core Features
 - **Table View**: Display data with Name, Email, Age, Role columns
